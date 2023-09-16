@@ -1,0 +1,17 @@
+---
+object: set
+id: 40b38065-0746-4679-89c4-172197bba904
+code: f06
+name: Friday Night Magic 2006
+uri: https://api.scryfall.com/sets/40b38065-0746-4679-89c4-172197bba904
+scryfall_uri: https://scryfall.com/sets/f06
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Af06&unique=prints
+released_at: '2006-01-01'
+set_type: promo
+card_count: 12
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: fnm
+block: Friday Night Magic
+icon_svg_uri: https://svgs.scryfall.io/sets/dci.svg?1694404800
